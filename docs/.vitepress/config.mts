@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Mei Xue English",
   description: "Learning English with Taylor Swift",
   base: '/mei/',
+  outDir: '../public',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
