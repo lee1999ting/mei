@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as a,ae as i}from"./chunks/framework.D4WbJ51R.js";const u=JSON.parse('{"title":"Anti-Hero","description":"","frontmatter":{},"headers":[],"relativePath":"anti-hero.md","filePath":"anti-hero.md"}'),o={name:"anti-hero.md"};function p(s,e,n,h,m,l){return a(),r("div",null,e[0]||(e[0]=[i("",45)]))}const y=t(o,[["render",p]]);export{u as __pageData,y as default};
