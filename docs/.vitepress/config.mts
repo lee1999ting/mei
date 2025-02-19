@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Mei Xue English",
   description: "Learning English with Taylor Swift",
+  base: '/mei/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
